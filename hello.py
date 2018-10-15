@@ -1,5 +1,6 @@
 # Databricks notebook source
-# MAGIC %run "./Includes/Classroom-Setup"    
+#this is just a test
+%run "./Includes/Classroom-Setup"    
 
 # COMMAND ----------
 
