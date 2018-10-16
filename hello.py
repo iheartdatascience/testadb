@@ -1,5 +1,5 @@
 # Databricks notebook source
-#this is just a test
+#this is just a test for comments
 %run "./Includes/Classroom-Setup"    
 
 # COMMAND ----------
